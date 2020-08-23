@@ -1,0 +1,13 @@
+shift + enter -> for runnig a cell and going to next cell
+enter -> move to edit mode
+escape -> move to command mode
+ctrl + enter -> move to next cell
+m -> change mode to markdown
+y -> change mode to code
+a -> insert a cell above
+b -> instert a cell below
+dd -> delete a cell
+![](file name) -> import and showing an image
+## -> uses to showing a bold text in markdown mode
+! -> for runnig terminal commands
+s -> save

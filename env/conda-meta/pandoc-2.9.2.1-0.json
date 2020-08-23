@@ -1,0 +1,51 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/home/kaen/Programs/miniconda3/pkgs/pandoc-2.9.2.1-0",
+  "features": "",
+  "files": [
+    "bin/pandoc",
+    "bin/pandoc-citeproc"
+  ],
+  "fn": "pandoc-2.9.2.1-0.conda",
+  "legacy_bz2_md5": "208b210f2d8ed3b3069b22d03c4c7923",
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "/home/kaen/Programs/miniconda3/pkgs/pandoc-2.9.2.1-0",
+    "type": 1
+  },
+  "md5": "56e49c8efe2f955e18f29100eb8889bd",
+  "name": "pandoc",
+  "package_tarball_full_path": "/home/kaen/Programs/miniconda3/pkgs/pandoc-2.9.2.1-0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pandoc",
+        "path_type": "hardlink",
+        "sha256": "637ea39ca89fa6938f8c123966194a6d276e04fe02266b1a83ab7c2af586d7c6",
+        "sha256_in_prefix": "637ea39ca89fa6938f8c123966194a6d276e04fe02266b1a83ab7c2af586d7c6",
+        "size_in_bytes": 72053120
+      },
+      {
+        "_path": "bin/pandoc-citeproc",
+        "path_type": "hardlink",
+        "sha256": "3eb927b076ac5f4072665f03231796efda9431c1876c250ca4c6411db660ab74",
+        "sha256_in_prefix": "3eb927b076ac5f4072665f03231796efda9431c1876c250ca4c6411db660ab74",
+        "size_in_bytes": 39643520
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3be147ac1e4a18433e55eb2c57e1460948c446bb569c9379993ecbe0141bae1c",
+  "size": 12888965,
+  "subdir": "linux-64",
+  "timestamp": 1593119933618,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pandoc-2.9.2.1-0.conda",
+  "version": "2.9.2.1"
+}
